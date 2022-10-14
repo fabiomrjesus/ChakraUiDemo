@@ -1,0 +1,9 @@
+body
+{
+    background-color:rgba(32,42,68,1)
+}
+
+#background
+{
+    background-image:url('../../public/images/background.png');
+}
